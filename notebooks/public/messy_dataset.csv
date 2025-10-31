@@ -1,0 +1,51 @@
+id,amount,transaction_date,revenue,commission_rate,is_active,company_name,customer_name,street_address,job_title,email,age,phone_number,city,zip_code,department
+1,7886.946357501953,2024-04-04,13509,0.9,1,TESLA,David Garcia,7883 Elm Boulevard,Manager,user0@example.com,23,296-444-5658,"",30058,Marketing
+2,2935.496662162657,2024-06-04,40723 USD,0.05,True,apple,Michael Miller,6235 Maple Drive,Manager,user1@example.com,53,266-976-9927,Denver,28538,Finance
+3,6189.09036875613,2024-08-09,34618,0.02,False,Amazon,Michael Jones,3778 Oak avenue,Manager,user2@example.com,58,534-670-2200,Denver,40041,Marketing
+4,3165.9440031155323,15-03-2024,5651,0.37,False,TESLA,Sarah Smith,4577 Pine Road,DOCTOR,user3@example.com,9999,#N/A,Springfield,77533,n/a
+5,6231.6434788072875,2024-05-02,43418,0.01,False,Adobe,David Garcia,5545 Maple Drive,Manager,user4@example.com,999,845-703-3008,Seattle,21731,Sales
+6,"3.160,27",2024-04-24,28625,0.59,False,Netflix,Jane Miller,8599 Main Street,manager,user5@example.com,44,-,Seattle,17035,HR
+7,7666.520354345742,"Dec 08, 2024",8208,0.46,True,Meta,Sarah Jones  ,9260 Main Street,Mister,user6@example.com,58,568-534-7244,Boston,45976,Marketing
+8,197.65838648940195,2024-03-21,19588,0.57,True,Apple,Sarah Smith,1299 Main Street,MISTER,user7@example.com,55,None,Portland,44692,Engineering
+9,9380.507478778383,2024-04-28,25917,0.73,True,neTflIx,Emily Johnson,6083 Maple drive,Miss,user8@example.com,31,955-439-9786,Denver,21429,HR
+10,"9.835,25",2024-12-21,28713,0.7,True,Tesla,Lisa Brown,8830 Pine road,DOCTOR,user9@example.com,61,299-784-6907,N/A,None,Finance
+11,8691.631712795926,2024-02-01,9528,0.21,False,apple,Emily Johnson,8130 Maple drive,Professor,user10@example.com,-999,857-470-2234,N/A,44320,Finance
+12,4200.221544288471,2024-12-25,14090,0.08,False,NETFLIX,  Robert  Brown,8759 Elm Boulevard,Professor,N/A,-999,750-502-5785,Austin,null,Operations
+13,4192.190635852101,2024-03-05,27485,0.32,True,Microsoft,Robert Davis,8829 Maple Drive,mister,Unknown,38,324-240-1486,Boston,-,Marketing
+14,4720.3013540186375,2024-01-25,30376,12%,False,NETFLIX,Jane Brown,1718 Elm Boulevard,Professor, ,23,606-430-9459,Unknown,13940,Marketing
+15,5790,2024-09-01,24638 USD,0.51,F,Google,Michael Miller,192 Pine Road,Professor, ,52,n/a,Boston,60670,HR
+16,4676,2024-04-19,26474 USD,0.66,N,meTa,Jane Miller,5257 Maple Drive,Doctor,user15@example.com,23,971-799-4329,Austin,74269,Marketing
+17,2316.73759178057,2024/09/16,€16298,0.54,True,Amazon,Jane Smith,1592 Elm Boulevard,Manager,user16@example.com,46,683-567-3870,Austin,66348,Marketing
+18,5943.328672968525,2024-07-21,7728,0.41,False,Meta,  Sarah Brown  ,3222 Main Street,Mister,user17@example.com,34,660-271-5088,Springfield,N/A,Finance
+19,4458.825844547678,2024-01-19,"$33,441",0.3,True,Google,John Jones,1020 Main Street,Doctor,NULL,41,656-837-2850,#N/A,#N/A,Operations
+20,1425.1676923909022,2024-02-02,39398,1.0,True,amazon,Sarah Davis,8221 Main Street,Man.,user19@example.com,51,null,Seattle,80012,HR
+21,771.2076636457382,2024-05-09,14837,0.18,0,GoOgle,Jane Smith,4501 Oak Avenue,Mi.,user20@example.com,39,968-457-5825,Unknown,n/a,HR
+22,3645.571227475185,2024/04/16,27005,0.08,True,Amazon,Jane Davis,7227 Maple Drive,Mister,user21@example.com,27,TBD,None,24361,Marketing
+23,3335.2261692128313,2024-07-24,5771,0.1,False,NEtFliX,Michael Garcia,4066 Main Street,Professor,user22@example.com,39,626-458-1971,Seattle,NaN,Finance
+24,1013.1092487235002,2024-10-15,34855 USD,0.16,yes,GOoglE,John Jones,7466 Oak avenue,Doctor,user23@example.com,55,null,Springfield,"",Operations
+25,5826.317168607987,2024-05-20,17792,0.37,True,MICROSOFT,Michael Miller,7715 Pine Road,Professor,user24@example.com,45,422-218-5325,Boston,Unknown,HR
+26,7539.71918746595,2024-12-22,35372,0.83,True,Meta,Jane Williams,1619 Maple Drive,Manager,user25@example.com,48,901-948-6488,TBD,53470,Operations
+27,7853.97,2024-05-16,9310,0.69,False,Netflix,David Williams,7496 Maple Dr.,Miss,TBD,23,null,Seattle,64073,Marketing
+28,3370.7029875331805,2024/09/04,€18387,0.91,False,Tesla,John Brown,9120 Oak Avenue,Miss,user27@example.com,34,486-538-3578,None,84538,Engineering
+29,2279.594611616573,09/14/2024,"£29,574.00",0.48,True,Netflix,Michael Jones,4251 Maple Drive,Mister,user28@example.com,9999,844-392-7612,n/a,21569,Operations
+30,"9.891,40",2024-07-11,45219,0.3,True,MIcrOsOFt,Michael Miller,8437 Main Street,Doctor,user29@example.com,37,n/a,Springfield,69444,Missing
+31,2820.1035315855884,2024-10-20,10627,0.54,False,Amazon,Lisa Davis,3104 Pine Rd,Doctor,user30@example.com,-999,875-549-6441,Denver,#N/A,Engineering
+32,4268.422765094883,2024-07-07,19624,0.5,False,Meta,Emily Johnson,6735 Oak Avenue,Doctor,n/a,9999,983-884-8252,Denver,20396,HR
+33,9472.377909061928,2024-10-06,34133,0.59,True,NETFLIX,Jane Brown,9365 Oak Avenue,doctor,user32@example.com,49,474-973-8884,Springfield,76965,HR
+34,8784.74034696115,2024-06-10,12215,0.8,False,Tesla,David Jones,6106 Elm Boulevard,Professor,user33@example.com,33,535-510-1846,Austin,43747,Operations
+35,2035.4371540630127,"Sep 27, 2024",31755,0.29,True,Microsoft,Robert Smith,7053 Main Street,Manager,user34@example.com,48,Unknown,Boston,#N/A,Finance
+36,2865.2568303744774,2024-04-28,23341,0.2,True,GOOGLE,John Brown,5685 Oak avenue,mister,user35@example.com,31,628-559-7885,Springfield,19208,HR
+37,9469.98,2024-04-20,"£30,826.00",31,True,Microsoft,Jane Williams,7904 Oak Avenue,Manager,user36@example.com,59,NaN,Seattle,59037,Sales
+38,4757.024351501463,2024-11-25,5468,0.31,False,Google,Jane Williams,1586 Main Street,Manager,user37@example.com,56,-,NULL,99169,Sales
+39,513.8467106369625,2024-11-09,44318 USD,0.24,True,Netflix,Michael Garcia,123 Maple Drive,Mi.,user38@example.com,-999,919-833-1530,Springfield,22735,Operations
+40,2148.32756540256,2024-07-27,"$28,819",0.8,False,Amazon,Robert Johnson,5410 Maple Drive,Professor,user39@example.com,51,688-916-9242,Boston,51133,Marketing
+41,7718.670318095953,2024-04-12,37975,10,False,Apple,David Brown,6793 Pine Road,Manager,user40@example.com,37,NA,Portland,NA,Sales
+42,1542.7172367546295,2024-06-05,9723,0.78,True,Tesla,David Miller,8874 Elm Boulevard,Professor,user41@example.com,49,262-389-7257,Boston,NA,Finance
+43,5489.345008145308,2024-04-09,47314,0.45,False,Netflix,Emily Brown,9913 Elm Boulevard,Miss,user42@example.com,48,None,Denver,78568,HR
+44,719.2145032728398,2024-04-19,35466,0.36,True,Amazon,Lisa Davis,2661 Pine Road,Mis.,user43@example.com,64,681-573-7156,TBD,72591,Finance
+45,5390.872823708231,2024-08-11,33153 USD,0.52,True,Amazon, John Jones,8210 Pine Road,Doctor,user44@example.com,65,NaN,Seattle,27307,Marketing
+46,8297.94427656602,2024-11-01,"$1,550",0.16,True,Tesla,Lisa Brown,2009 Oak Avenue,Manager,user45@example.com,24,-,Austin,98654,Sales
+47,9182.904425419678,12/19/2024,48267,0.34,False,Google,Michael Johnson,733 Maple Drive,Professor,user46@example.com,46,null,Springfield,Missing,Operations
+48,6125,2024-09-05,44597,0.33,False,APPLe,Robert Brown,4527 Main Street,Doctor,N/A,50,618-820-9209,Seattle,91412,Marketing
+49,7124.574091215714,2024-03-24,19922,0.74,True,NETFLIX,David  Smith ,5168 Main St,Miss,TBD,41,246-681-8073,Portland,26102,Finance
+50,2659.9264561338373,2024-10-07,39830,0.9,True,Microsoft,David Johnson,7562 Maple Drive,Do.,user49@example.com,63,NaN,Seattle,"",Sales
